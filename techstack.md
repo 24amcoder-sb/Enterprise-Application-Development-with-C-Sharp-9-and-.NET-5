@@ -3,28 +3,28 @@
 ## Tech Stack
 24amcoder-sb/Enterprise-Application-Development-with-C-Sharp-9-and-.NET-5 is built on the following main stack:
 
-- [RequireJS](http://requirejs.org/) – Front End Package Manager
-- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [C#](http://csharp.net) – Languages
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
+- [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
 - [jQuery](http://jquery.com/) – Javascript UI Libraries
+- [Azure Storage](http://azure.microsoft.com/en-us/services/storage/) – Cloud Storage
+- [Entity Framework](https://docs.microsoft.com/en-us/aspnet/entity-framework) – Object Relational Mapper (ORM)
+- [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/) – Object Relational Mapper (ORM)
 - [Microsoft SQL Server](http://microsoft.com/sqlserver) – Databases
 - [SQLite](http://www.sqlite.org/) – Databases
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
-- [Selenium](http://www.seleniumhq.org/) – Browser Testing
-- [Moq](https://github.com/Moq/moq4) – Testing Frameworks
-- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- [Azure Storage](http://azure.microsoft.com/en-us/services/storage/) – Cloud Storage
-- [Raphael](http://raphaeljs.com/) – Javascript Utilities & Libraries
-- [xUnit](http://xunit.github.io/) – Testing Frameworks
-- [Entity Framework](https://docs.microsoft.com/en-us/aspnet/entity-framework) – Object Relational Mapper (ORM)
-- [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
-- [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
 - [AutoFac](https://autofac.org/) – Container Tools
 - [Azure Pipelines](https://azure.microsoft.com/ko-kr/services/devops/pipelines/) – Continuous Integration
-- [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/) – Object Relational Mapper (ORM)
+- [Moq](https://github.com/Moq/moq4) – Testing Frameworks
 - [Polly](http://www.thepollyproject.org/) – Fault Tolerance Tools
-- [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
+- [RequireJS](http://requirejs.org/) – Front End Package Manager
+- [Selenium](http://www.seleniumhq.org/) – Browser Testing
+- [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
+- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- [xUnit](http://xunit.github.io/) – Testing Frameworks
+- [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
+- [Raphael](http://raphaeljs.com/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -34,28 +34,28 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 24amcoder-sb/Enterprise-Application-Development-with-C-Sharp-9-and-.NET-5 is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/852/1781835.png' alt='RequireJS'/> [RequireJS](http://requirejs.org/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png' alt='.NET Core'/> [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/11331/asp.net-core.png' alt='ASP.NET Core'/> [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/2099/azureStorage.png' alt='Azure Storage'/> [Azure Storage](http://azure.microsoft.com/en-us/services/storage/) – Cloud Storage
+- <img width='25' height='25' src='https://img.stackshare.io/service/3251/no-img-open-source.png' alt='Entity Framework'/> [Entity Framework](https://docs.microsoft.com/en-us/aspnet/entity-framework) – Object Relational Mapper (ORM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/10254/no-img-open-source.png' alt='Entity Framework Core'/> [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/) – Object Relational Mapper (ORM)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1027/sql_server.png' alt='Microsoft SQL Server'/> [Microsoft SQL Server](http://microsoft.com/sqlserver) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1071/sqlite.jpg' alt='SQLite'/> [SQLite](http://www.sqlite.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'/> [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
-- <img width='25' height='25' src='https://img.stackshare.io/service/1517/sbUizSli_400x400.jpg' alt='Selenium'/> [Selenium](http://www.seleniumhq.org/) – Browser Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/1628/1434934.png' alt='Moq'/> [Moq](https://github.com/Moq/moq4) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/2099/azureStorage.png' alt='Azure Storage'/> [Azure Storage](http://azure.microsoft.com/en-us/services/storage/) – Cloud Storage
-- <img width='25' height='25' src='https://img.stackshare.io/service/3044/72f4ddedbb738d7d21702bb9b57d7754_400x400.png' alt='Raphael'/> [Raphael](http://raphaeljs.com/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png' alt='xUnit'/> [xUnit](http://xunit.github.io/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/3251/no-img-open-source.png' alt='Entity Framework'/> [Entity Framework](https://docs.microsoft.com/en-us/aspnet/entity-framework) – Object Relational Mapper (ORM)
-- <img width='25' height='25' src='https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png' alt='Moment.js'/> [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png' alt='.NET Core'/> [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/6953/default_17650e39faa714f82fcdb12b14af73c704a15d2f.jpg' alt='AutoFac'/> [AutoFac](https://autofac.org/) – Container Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/10164/528389819366_e7a0672f0480b3e98d21_512.png' alt='Azure Pipelines'/> [Azure Pipelines](https://azure.microsoft.com/ko-kr/services/devops/pipelines/) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/10254/no-img-open-source.png' alt='Entity Framework Core'/> [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/) – Object Relational Mapper (ORM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1628/1434934.png' alt='Moq'/> [Moq](https://github.com/Moq/moq4) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/10882/default_8657bb75f24d5f46b223b0a61477221141a8874a.png' alt='Polly'/> [Polly](http://www.thepollyproject.org/) – Fault Tolerance Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/11331/asp.net-core.png' alt='ASP.NET Core'/> [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/852/1781835.png' alt='RequireJS'/> [RequireJS](http://requirejs.org/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/1517/sbUizSli_400x400.jpg' alt='Selenium'/> [Selenium](http://www.seleniumhq.org/) – Browser Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'/> [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
+- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png' alt='xUnit'/> [xUnit](http://xunit.github.io/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png' alt='Moment.js'/> [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/3044/72f4ddedbb738d7d21702bb9b57d7754_400x400.png' alt='Raphael'/> [Raphael](http://raphaeljs.com/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -66,7 +66,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [24amcoder-sb/Enterprise-Application-Development-with-C-Sharp-9-and-.NET-5](https://github.com/24amcoder-sb/Enterprise-Application-Development-with-C-Sharp-9-and-.NET-5)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|53<br/>Tools used|01/05/24 <br/>Report generated|
+|53<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -330,7 +330,7 @@ Full tech stack [here](/techstack.md)
 |[Selenium.WebDriver.ChromeDriver](https://www.nuget.org/Selenium.WebDriver.ChromeDriver)|v87.0.4280|12/05/20|skunani |Unlicense|N/A|
 |[Swashbuckle.AspNetCore](https://www.nuget.org/Swashbuckle.AspNetCore)|v5.6.3|02/22/21|Ravindra-a |BSD-3-Clause|N/A|
 |[System.ComponentModel.Annotations](https://www.nuget.org/System.ComponentModel.Annotations)|v4.7.0|10/01/20|Ravindra Akella |MIT|N/A|
-|[System.Data.SqlClient](https://www.nuget.org/System.Data.SqlClient)|v4.8.1|12/07/20|Suneel Kumar Kunani |MIT|[CVE-2022-41064](https://github.com/advisories/GHSA-8g2p-5pqh-5jmc) (Moderate)|
+|[System.Data.SqlClient](https://www.nuget.org/System.Data.SqlClient)|v4.8.1|12/07/20|Suneel Kumar Kunani |MIT|[CVE-2024-0056](https://github.com/advisories/GHSA-98g6-xh36-x2p7) (High)<br/>[CVE-2022-41064](https://github.com/advisories/GHSA-8g2p-5pqh-5jmc) (Moderate)|
 |[xunit.runner.visualstudio](https://www.nuget.org/xunit.runner.visualstudio)|v2.4.3|12/15/20|Arun Tamirisa |Other|N/A|
 
 <br/>
