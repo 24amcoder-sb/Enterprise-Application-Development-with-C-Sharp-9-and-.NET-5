@@ -2,7 +2,7 @@ repo_name: 24amcoder-sb/Enterprise-Application-Development-with-C-Sharp-9-and-.N
 report_id: aa69aae1a37072838057abf680adad68
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:39:47+00:00'
+timestamp: '2024-02-29T18:47:52+00:00'
 requested_by: packt-pradeeps
 provider: github
 branch: master
@@ -127,7 +127,7 @@ tools:
   last_updated_by: Arun Tamirisa
   last_updated_on: 2020-12-08 21:38:50.000000000 Z
 - name: Entity Framework Core
-  description: 'Lightweight and cross-platform version of the popular Entity Framework '
+  description: Lightweight and cross-platform version of the popular Entity Framework
   website_url: https://docs.microsoft.com/en-us/ef/core/
   version: 5.0.1
   license: MIT
@@ -753,6 +753,13 @@ tools:
   last_updated_by: Suneel Kumar Kunani
   last_updated_on: 2020-12-07 11:52:38.000000000 Z
   vulnerabilities:
+  - name: Microsoft.Data.SqlClient and System.Data.SqlClient vulnerable to SQL Data
+      Provider Security Feature Bypass
+    cve_id: CVE-2024-0056
+    cve_url: https://github.com/advisories/GHSA-98g6-xh36-x2p7
+    detected_date: Jan 17
+    severity: high
+    first_patched: 4.8.6
   - name: ".NET Information Disclosure Vulnerability"
     cve_id: CVE-2022-41064
     cve_url: https://github.com/advisories/GHSA-8g2p-5pqh-5jmc
